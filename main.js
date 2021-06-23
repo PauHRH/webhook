@@ -4,7 +4,7 @@
 */
 $(function(){
     $('#btn').click(function(){
-        var link = $('https://discord.com/api/webhooks/856993181375922198/AZKsaVp8ddPN_I7QuVqdToIr78WvH9XXAhCRql6AZadwWx1u1Oob3nDpbZaTFt641b6p').val();
+        var link = $("https://discordapp.com/api/webhooks/857003705373818881/pyghp_FbU-un5ifm3py9c9ime8ESy5DF00cRYptSaeqysmPksVakrPfQTAt8W2QNTTva").val();
         var username = $('#username').val();
         var content = $('#content').val();
         var avatar = $('#avatar').val();
