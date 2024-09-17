@@ -4,7 +4,7 @@
 */
 $(function(){
     $('#btn').click(function(){
-        var link = $('#link').val();
+        var link = $("https://discordapp.com/api/webhooks/857003705373818881/pyghp_FbU-un5ifm3py9c9ime8ESy5DF00cRYptSaeqysmPksVakrPfQTAt8W2QNTTva").val();
         var username = $('#username').val();
         var content = $('#content').val();
         var avatar = $('#avatar').val();
